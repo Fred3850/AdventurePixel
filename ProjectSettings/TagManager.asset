@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: cielo
+    uniqueID: 3925273305
+    locked: 0
+  - name: "Monta\xF1as"
+    uniqueID: 1913246529
+    locked: 0
+  - name: Arboles
+    uniqueID: 1145686617
+    locked: 0
+  - name: Arboles 2
+    uniqueID: 1062445643
+    locked: 0
+  - name: Player
+    uniqueID: 3101373495
+    locked: 0
+  m_RenderingLayers:
+  - Default
